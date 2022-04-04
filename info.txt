@@ -1,0 +1,6 @@
+auto <i class="fa-solid fa-car"></i>
+casa <i class="fa-solid fa-house"></i>
+gradina <i class="fa-solid fa-hand-holding-seedling"></i>
+electronice <i class="fa-solid fa-laptop"></i>
+animale <i class="fa-solid fa-paw"></i>
+servici casa <i class="fa-solid fa-wrench"></i>
