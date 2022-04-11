@@ -248,3 +248,9 @@ body {
     background-image: url(./servicesImages/services.jpg);
    
 }
+
+
+
+.location {
+    cursor: pointer;
+}
