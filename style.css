@@ -175,7 +175,7 @@ body {
 
 /* adding background image to the second component */
 .second-component {
-    background-image: url(./bgImages/blur50.jpg);
+    background-image: url(./assets/bgImages/blur50.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -184,7 +184,7 @@ body {
 
 /* adding backgroudn image to the third componenet */
 .third-component {
-    background-image: url(./bgImages/handshakeGood50.jpg);
+    background-image: url(./assets/bgImages/handshakeGood50.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -220,32 +220,32 @@ body {
 
 /* adding images to each card, separately */
 .auto {
-    background-image: url(./servicesImages/auto.jpeg);
+    background-image: url(./assets/servicesImages/auto.jpeg);
     
 }
 
 .house {
-    background-image: url(./servicesImages/house.jpg);
+    background-image: url(./assets/servicesImages/house.jpg);
     
 }
 
 .garden {
-    background-image: url(./servicesImages/garden.jpg);
+    background-image: url(./assets/servicesImages/garden.jpg);
     
 }
 
 .electronics {
-    background-image: url(./servicesImages/electronics.jpeg);
+    background-image: url(./assets/servicesImages/electronics.jpeg);
     
 }
 
 .pets {
-    background-image: url(./servicesImages/pets.jpg);
+    background-image: url(./assets/servicesImages/pets.jpg);
     
 }
 
 .services {
-    background-image: url(./servicesImages/services.jpg);
+    background-image: url(./assets/servicesImages/services.jpg);
    
 }
 
